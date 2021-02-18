@@ -2,6 +2,9 @@
 Module 14
 ## Overview of Analysis
 
+Gathering the citi bike infotmation from NYC we can figure out which demographics are using the bikes and when is traffic the highest. This will help Kate utilize the data to present to angel investors for starting a bike share company in her area.
+
+
 ## Results
 
 <img width="977" alt="Screen Shot 2021-02-17 at 3 58 05 PM" src="https://user-images.githubusercontent.com/72036895/108278905-feb03480-7138-11eb-9152-f798ef7cacde.png">
