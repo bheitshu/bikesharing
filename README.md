@@ -25,6 +25,8 @@ The most common trip duration for users is 5 minutes. A total of 146,752 people 
 <img width="949" alt="Screen Shot 2021-02-17 at 3 56 42 PM" src="https://user-images.githubusercontent.com/72036895/108279097-4931b100-7139-11eb-8883-d8ecf30f367d.png">
 
 
+The majority of males use the bike sharing program for 5 minutes where the majority of females use it for 6 minutes. The unknown category has a high of 10 minutes.
+
 <img width="978" alt="Screen Shot 2021-02-17 at 3 56 54 PM" src="https://user-images.githubusercontent.com/72036895/108278971-18ea1280-7139-11eb-9913-8d5a7e0a0937.png">
 
 
