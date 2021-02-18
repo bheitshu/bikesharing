@@ -47,3 +47,6 @@ The majority of both Males and Females using the bike sharing services are subsc
 
 Overall the majority of users are subscribers and of the total bikers the majority are male.
 Additional analysis I would suggest would be filtering the ages by "Birth Year" of the genders to discover more about the demographic, are these workers or students? Also if we can pinpoint the busiest bike pick up location using Station ID we can ensure there are more bikes to keep up with the demand.
+
+[link to dashboard](https://public.tableau.com/profile/brooke.heitshu#!/vizhome/Module14Challenge-NYCStory/NYCStory?publish=yes)
+[link to dashboard](https://public.tableau.com/profile/brooke.heitshu#!/vizhome/Module14Challenge-NYCStory/NYCStory?publish=yes "link to dashboard")
