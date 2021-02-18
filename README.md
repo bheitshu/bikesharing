@@ -44,3 +44,6 @@ Out of the total weekly usage both males and females have the highest usage rate
 The majority of both Males and Females using the bike sharing services are subscribers.
 
 ## Summary
+
+Overall the majority of users are subscribers and of the total bikers the majority are male.
+Additional analysis I would suggest would be filtering the ages by "Birth Year" of the genders to discover more about the demographic, are these workers or students? Also if we can pinpoint the busiest bike pick up location using Station ID we can ensure there are more bikes to keep up with the demand.
