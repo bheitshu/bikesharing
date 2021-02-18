@@ -6,7 +6,17 @@ Module 14
 
 <img width="977" alt="Screen Shot 2021-02-17 at 3 58 05 PM" src="https://user-images.githubusercontent.com/72036895/108278905-feb03480-7138-11eb-9152-f798ef7cacde.png">
 
+This map respresents the top starting locations for bike sharing in NYC. The top place to start a bike trip is in Manhatten.
+
 <img width="981" alt="Screen Shot 2021-02-17 at 3 57 52 PM" src="https://user-images.githubusercontent.com/72036895/108278945-0d96e700-7139-11eb-8859-ee0f9bec95f4.png">
+
+
+
+
+
+
+
+This map respresents the top starting locations for bike sharing in NYC. The top place to start a bike trip is in Manhatten.
 
 <img width="966" alt="Screen Shot 2021-02-17 at 3 56 28 PM" src="https://user-images.githubusercontent.com/72036895/108279074-4040df80-7139-11eb-88ab-cf6d8203059e.png">
 
