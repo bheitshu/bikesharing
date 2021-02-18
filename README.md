@@ -29,6 +29,7 @@ The majority of males use the bike sharing program for 5 minutes where the major
 
 <img width="978" alt="Screen Shot 2021-02-17 at 3 56 54 PM" src="https://user-images.githubusercontent.com/72036895/108278971-18ea1280-7139-11eb-9913-8d5a7e0a0937.png">
 
+The lighter yellow areas are when the bikes are the least busy and the darker red are when the most amount of people are using the bikes. Thursdays around 6PM are the busiest time for using bikes.
 
 <img width="980" alt="Screen Shot 2021-02-17 at 3 57 03 PM" src="https://user-images.githubusercontent.com/72036895/108279005-23a4a780-7139-11eb-9fa9-e9e44e47febc.png">
 
