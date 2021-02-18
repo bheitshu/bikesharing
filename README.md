@@ -16,7 +16,7 @@ This map respresents the top starting locations for bike sharing in NYC. The top
 
 
 
-This map respresents the top starting locations for bike sharing in NYC. The top place to start a bike trip is in Manhatten.
+This map respresents the top ending locations for bike sharing in NYC. The top place to end a bike trip is in Manhatten.
 
 <img width="966" alt="Screen Shot 2021-02-17 at 3 56 28 PM" src="https://user-images.githubusercontent.com/72036895/108279074-4040df80-7139-11eb-88ab-cf6d8203059e.png">
 
